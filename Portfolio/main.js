@@ -1,7 +1,7 @@
 var typed=new typed(".text",{
-    String:["Fronted Developer","Youtuber","Web Developer"],
+    Strings:["Fronted Developer","Web Developer","MERN Stack Developer:"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
     loop:true
-});
+})
